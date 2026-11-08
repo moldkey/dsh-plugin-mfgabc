@@ -1,5 +1,7 @@
 # dsh-plugin-mfgabc
 
+Repository: https://github.com/moldkey/dsh-plugin-mfgabc
+
 Read-only mfgabc.com tools for DeepSeek Harness: standards pages, industrial city guides, process clusters, and cross-border compliance pages.
 
 中文说明见 [README.zh-CN.md](README.zh-CN.md).

@@ -1,5 +1,7 @@
 # dsh-plugin-mfgabc
 
+Repository: https://github.com/moldkey/dsh-plugin-mfgabc
+
 mfgabc.com 只读查询插件：标准页、产业带城市、工艺集群、跨境合规、任意站内页。
 
 English docs: [README.md](README.md).
