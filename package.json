@@ -1,6 +1,6 @@
 {
   "name": "@liangjiehappy/dsh-plugin-mfgabc",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "mfgabc.com 制造业内容查询：标准页、产业带城市、工艺集群、跨境合规。只访问 www.mfgabc.com。",
   "type": "module",
   "main": "lib/index.js",

@@ -1,6 +1,7 @@
 # dsh-plugin-mfgabc
 
 [![DSHIO/T 10](https://deepseekbase.com/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/liangjiehappy-dsh-plugin-mfgabc.svg)](https://deepseekbase.com/zh/plugins/liangjiehappy-dsh-plugin-mfgabc/)
+[![deepseekbase endpoint](https://img.shields.io/endpoint?url=https%3A%2F%2Fdeepseekbase.com%2Fbadge%2Fliangjiehappy-dsh-plugin-mfgabc.json&style=flat-square)](https://deepseekbase.com/zh/plugins/liangjiehappy-dsh-plugin-mfgabc/)
 
 Repository: https://github.com/moldkey/dsh-plugin-mfgabc
 
